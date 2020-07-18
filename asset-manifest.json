@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StefanStefanovic94/Hacker/static/css/main.915e1478.chunk.css",
+    "main.js": "/StefanStefanovic94/Hacker/static/js/main.e6239774.chunk.js",
+    "main.js.map": "/StefanStefanovic94/Hacker/static/js/main.e6239774.chunk.js.map",
+    "runtime-main.js": "/StefanStefanovic94/Hacker/static/js/runtime-main.5317e311.js",
+    "runtime-main.js.map": "/StefanStefanovic94/Hacker/static/js/runtime-main.5317e311.js.map",
+    "static/js/2.b9117bc8.chunk.js": "/StefanStefanovic94/Hacker/static/js/2.b9117bc8.chunk.js",
+    "static/js/2.b9117bc8.chunk.js.map": "/StefanStefanovic94/Hacker/static/js/2.b9117bc8.chunk.js.map",
+    "index.html": "/StefanStefanovic94/Hacker/index.html",
+    "precache-manifest.f326279e67382afc7e144cd374728987.js": "/StefanStefanovic94/Hacker/precache-manifest.f326279e67382afc7e144cd374728987.js",
+    "service-worker.js": "/StefanStefanovic94/Hacker/service-worker.js",
+    "static/css/main.915e1478.chunk.css.map": "/StefanStefanovic94/Hacker/static/css/main.915e1478.chunk.css.map",
+    "static/js/2.b9117bc8.chunk.js.LICENSE.txt": "/StefanStefanovic94/Hacker/static/js/2.b9117bc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5317e311.js",
+    "static/js/2.b9117bc8.chunk.js",
+    "static/css/main.915e1478.chunk.css",
+    "static/js/main.e6239774.chunk.js"
+  ]
+}

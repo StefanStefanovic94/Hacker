@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.com/Hacker/static/css/main.915e1478.chunk.css",
-    "main.js": "/github.com/Hacker/static/js/main.e6239774.chunk.js",
-    "main.js.map": "/github.com/Hacker/static/js/main.e6239774.chunk.js.map",
-    "runtime-main.js": "/github.com/Hacker/static/js/runtime-main.d782d631.js",
-    "runtime-main.js.map": "/github.com/Hacker/static/js/runtime-main.d782d631.js.map",
-    "static/js/2.b9117bc8.chunk.js": "/github.com/Hacker/static/js/2.b9117bc8.chunk.js",
-    "static/js/2.b9117bc8.chunk.js.map": "/github.com/Hacker/static/js/2.b9117bc8.chunk.js.map",
-    "index.html": "/github.com/Hacker/index.html",
-    "precache-manifest.014a69a945aa693f976a6ff1524669b5.js": "/github.com/Hacker/precache-manifest.014a69a945aa693f976a6ff1524669b5.js",
-    "service-worker.js": "/github.com/Hacker/service-worker.js",
-    "static/css/main.915e1478.chunk.css.map": "/github.com/Hacker/static/css/main.915e1478.chunk.css.map",
-    "static/js/2.b9117bc8.chunk.js.LICENSE.txt": "/github.com/Hacker/static/js/2.b9117bc8.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/Hacker/static/css/main.915e1478.chunk.css",
+    "main.js": "/github.io/Hacker/static/js/main.e6239774.chunk.js",
+    "main.js.map": "/github.io/Hacker/static/js/main.e6239774.chunk.js.map",
+    "runtime-main.js": "/github.io/Hacker/static/js/runtime-main.ab48549d.js",
+    "runtime-main.js.map": "/github.io/Hacker/static/js/runtime-main.ab48549d.js.map",
+    "static/js/2.b9117bc8.chunk.js": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js",
+    "static/js/2.b9117bc8.chunk.js.map": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js.map",
+    "index.html": "/github.io/Hacker/index.html",
+    "precache-manifest.602d9dbf2e3243b74ac887235c9379dd.js": "/github.io/Hacker/precache-manifest.602d9dbf2e3243b74ac887235c9379dd.js",
+    "service-worker.js": "/github.io/Hacker/service-worker.js",
+    "static/css/main.915e1478.chunk.css.map": "/github.io/Hacker/static/css/main.915e1478.chunk.css.map",
+    "static/js/2.b9117bc8.chunk.js.LICENSE.txt": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d782d631.js",
+    "static/js/runtime-main.ab48549d.js",
     "static/js/2.b9117bc8.chunk.js",
     "static/css/main.915e1478.chunk.css",
     "static/js/main.e6239774.chunk.js"

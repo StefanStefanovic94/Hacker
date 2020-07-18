@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/Hacker/static/css/main.915e1478.chunk.css",
-    "main.js": "/github.io/Hacker/static/js/main.e6239774.chunk.js",
-    "main.js.map": "/github.io/Hacker/static/js/main.e6239774.chunk.js.map",
-    "runtime-main.js": "/github.io/Hacker/static/js/runtime-main.ab48549d.js",
-    "runtime-main.js.map": "/github.io/Hacker/static/js/runtime-main.ab48549d.js.map",
-    "static/js/2.b9117bc8.chunk.js": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js",
-    "static/js/2.b9117bc8.chunk.js.map": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js.map",
-    "index.html": "/github.io/Hacker/index.html",
-    "precache-manifest.602d9dbf2e3243b74ac887235c9379dd.js": "/github.io/Hacker/precache-manifest.602d9dbf2e3243b74ac887235c9379dd.js",
-    "service-worker.js": "/github.io/Hacker/service-worker.js",
-    "static/css/main.915e1478.chunk.css.map": "/github.io/Hacker/static/css/main.915e1478.chunk.css.map",
-    "static/js/2.b9117bc8.chunk.js.LICENSE.txt": "/github.io/Hacker/static/js/2.b9117bc8.chunk.js.LICENSE.txt"
+    "main.css": "/Hacker/static/css/main.915e1478.chunk.css",
+    "main.js": "/Hacker/static/js/main.e6239774.chunk.js",
+    "main.js.map": "/Hacker/static/js/main.e6239774.chunk.js.map",
+    "runtime-main.js": "/Hacker/static/js/runtime-main.e9e10db3.js",
+    "runtime-main.js.map": "/Hacker/static/js/runtime-main.e9e10db3.js.map",
+    "static/js/2.b9117bc8.chunk.js": "/Hacker/static/js/2.b9117bc8.chunk.js",
+    "static/js/2.b9117bc8.chunk.js.map": "/Hacker/static/js/2.b9117bc8.chunk.js.map",
+    "index.html": "/Hacker/index.html",
+    "precache-manifest.0e84c2954d46aa302312a3484664e768.js": "/Hacker/precache-manifest.0e84c2954d46aa302312a3484664e768.js",
+    "service-worker.js": "/Hacker/service-worker.js",
+    "static/css/main.915e1478.chunk.css.map": "/Hacker/static/css/main.915e1478.chunk.css.map",
+    "static/js/2.b9117bc8.chunk.js.LICENSE.txt": "/Hacker/static/js/2.b9117bc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab48549d.js",
+    "static/js/runtime-main.e9e10db3.js",
     "static/js/2.b9117bc8.chunk.js",
     "static/css/main.915e1478.chunk.css",
     "static/js/main.e6239774.chunk.js"
